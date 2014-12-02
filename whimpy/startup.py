@@ -6,4 +6,11 @@ config = {
  'IP' : os.environ.get('VCAP_APP_HOST', '0.0.0.0') 
 }
 
-os.system('python manage.py runserver {IP}:{PORT}'.format(**config)) 
+c = 0
+while True and c < 10:
+    c = c + 1
+    try:
+        os.system('python manage.py runserver {IP}:{PORT}'.format(**config))
+    except:
+        pass
+     
