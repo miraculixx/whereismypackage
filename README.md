@@ -2,7 +2,7 @@ Simple Package Locator
 ======================
 
 This is a simple parcel or package locator. Just enter the package no and it will display
-your providor's package tracking online service. Visit the [online demo](http://whimpy.beta.scapp.io/)
+your providor's package tracking online service. Visit the [online demo](http://whereismypackage.ch/)
 
 Why do I need this?
 
