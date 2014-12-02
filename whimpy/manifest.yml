@@ -1,0 +1,7 @@
+---
+# whimpy manifest
+applications:
+- name: whimpy
+  memory: 128M
+  command: python startup.py
+
