@@ -1,3 +1,5 @@
+**DEPRECATED** This is no longer actively developed. Consider it an archieved example.
+
 Simple Package Locator
 ======================
 
