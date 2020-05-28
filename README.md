@@ -1,4 +1,4 @@
-**DEPRECATED** This is no longer actively developed. Consider it an archieved example.
+**DEPRECATED** This is no longer developed nor supported. Consider it an archieved example.
 
 Simple Package Locator
 ======================
